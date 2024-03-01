@@ -1,2 +1,4 @@
-package peaksoft.service;public interface TaskService {
+package peaksoft.service;
+
+public interface TaskService {
 }

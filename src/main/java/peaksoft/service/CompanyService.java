@@ -1,2 +1,8 @@
-package peaksoft.service;public interface CompanyService {
+package peaksoft.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public interface CompanyService {
+
 }

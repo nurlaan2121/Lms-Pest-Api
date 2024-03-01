@@ -1,2 +1,4 @@
-package peaksoft.service;public interface GroupService {
+package peaksoft.service;
+
+public interface GroupService {
 }
